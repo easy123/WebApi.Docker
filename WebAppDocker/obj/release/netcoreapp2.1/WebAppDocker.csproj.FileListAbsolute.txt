@@ -1,0 +1,15 @@
+E:\Code\WebAppDocker\WebAppDocker\bin\release\netcoreapp2.1\WebAppDocker.deps.json
+E:\Code\WebAppDocker\WebAppDocker\bin\release\netcoreapp2.1\WebAppDocker.runtimeconfig.json
+E:\Code\WebAppDocker\WebAppDocker\bin\release\netcoreapp2.1\WebAppDocker.runtimeconfig.dev.json
+E:\Code\WebAppDocker\WebAppDocker\bin\release\netcoreapp2.1\WebAppDocker.dll
+E:\Code\WebAppDocker\WebAppDocker\bin\release\netcoreapp2.1\WebAppDocker.pdb
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.csprojAssemblyReference.cache
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.csproj.CoreCompileInputs.cache
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.RazorAssemblyInfo.cache
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.RazorAssemblyInfo.cs
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.AssemblyInfoInputs.cache
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.AssemblyInfo.cs
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.RazorTargetAssemblyInfo.cache
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.dll
+E:\Code\WebAppDocker\WebAppDocker\obj\release\netcoreapp2.1\WebAppDocker.pdb
